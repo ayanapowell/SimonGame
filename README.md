@@ -1,6 +1,6 @@
 # Simon Game
 
-#### A JavaScript application with Gulp, October 10th, 2016
+#### A JavaScript application with Gulp, October 10, 2016
 
 #### By Mark Lawson & Ayana Powell
 
